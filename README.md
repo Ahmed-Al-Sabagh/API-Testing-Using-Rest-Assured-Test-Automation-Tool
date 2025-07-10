@@ -2,7 +2,6 @@
 
 ---
 
-### 📄 `README.md`
 
 ````markdown
 # 🧪 API Testing with Rest Assured 🚀
