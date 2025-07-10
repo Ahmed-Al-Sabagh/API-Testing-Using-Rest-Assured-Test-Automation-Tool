@@ -1,5 +1,4 @@
-رائع! إليك الآن ملف `README.md` الاحترافي لمشروع **API Testing Using Rest Assured**، مصمم بأسلوب جذّاب ومناسب للنشر على GitHub 💻🚀
-
+**API Testing Using Rest Assured*
 ---
 
 
